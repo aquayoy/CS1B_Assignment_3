@@ -1,3 +1,6 @@
+/** CS1B_Assignment_3
+ * Creeger, Adam/ Kishore, Nand/ Lo, YaFan
+ */
 import java.util.Scanner;
 
 public class Foothill {
